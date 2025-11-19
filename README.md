@@ -1,9 +1,6 @@
 # <div > **DataDumper**  </div>
 
-
-
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/datadumper/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/DataDump3r) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/datadumper)  
-
 
 Extract app data without root access using Shizuku.
 
@@ -51,7 +48,7 @@ You can modify apps to add debugging support:
 
 ## Use Cases
 
-- Extract runtime-generated files
+- Extract runtime-generated files (libs, configs, tokens, ...)
 - Backup app data without root
 
-Made with fun 😅
+Made with fun by Simo
