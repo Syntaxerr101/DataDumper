@@ -2,7 +2,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/datadumper/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/DataDump3r) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/datadumper)  
 
-Extract/Dump full app data folder to zip file without root access using Shizuku.
+Extract/Dump full app data folder to a zip file without root access using Shizuku.
 
 ## How It Works
 1. **Select any debuggable app** from your device
@@ -33,9 +33,12 @@ Extract/Dump full app data folder to zip file without root access using Shizuku.
 
 ## Usage
 
-1. Tap **SELECT APP** → Choose a debuggable app
-2. Tap **SELECT EXPORT FOLDER** → Pick save location  
-3. Tap **DUMP APP DATA** → Extract files to ZIP
+1. Tap **SELECT APP** 
+    → Choose a debuggable app
+2. Tap **SELECT EXPORT FOLDER** 
+    → Pick save location  
+3. Tap **DUMP APP DATA** 
+    → Extract files to ZIP
 
 Output: `package_name_version_timestamp.zip`
 
