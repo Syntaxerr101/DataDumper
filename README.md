@@ -4,7 +4,7 @@
 
 ![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/datadumper/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/DataDump3r) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/datadumper)  
 
-# DataDumper
+
 Extract app data without root access using Shizuku.
 
 ## How It Works
