@@ -41,7 +41,7 @@ Output: `package_name_version_timestamp.zip`
 
 ## Make Any App Debuggable 🔓
 
-You can modify apps to add debugging support:
+Modify any app and add debugging support:
 - Add `android:debuggable="true"` to the `<application>` tag in AndroidManifest.xml
 - Repack and reinstall the modified APK
 - App will appear in DataDumper's list
