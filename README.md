@@ -1,3 +1,9 @@
+# <div align="center"> *DataDumper**  </div>
+
+<div align="center" >
+
+![Downloads](https://img.shields.io/github/downloads/Syntaxerr101/datadumper/total) [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?logo=telegram)](https://t.me/DataDump3r) ![Latest Release](https://img.shields.io/github/v/release/Syntaxerr101/datadumper)  
+
 # DataDumper
 Extract app data without root access using Shizuku.
 
@@ -11,7 +17,15 @@ Extract app data without root access using Shizuku.
 - [Shizuku](https://github.com/RikkaApps/Shizuku) installed and running
 - Debuggable apps
 
-## Screenshots
+
+## Screenshots  
+
+<p align="center">
+  <img src="https://github.com/Syntaxerr101/datadumper/blob/main/1.png" width="46%" />
+  <img src="https://github.com/Syntaxerr101/datadumper/blob/main/2.png" width="46%" />  
+</p>  
+<p align="center">
+ 
 
 
 ## Setup
