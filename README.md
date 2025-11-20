@@ -4,7 +4,7 @@
 
 Extract/Dump full app data folder to a zip file without root access using Shizuku.
 
-## How It Works
+## How it works
 1. **Select any debuggable app** from your device
 2. **Choose export folder** to save the data
 3. **Dump app data** into a ZIP file
@@ -42,14 +42,14 @@ Extract/Dump full app data folder to a zip file without root access using Shizuk
 
 Output: `package_name_version_timestamp.zip`
 
-## Make Any App Debuggable 🔓
+## Make any app debuggable 🔓
 
 Modify any app and add debugging support:
 - Add `android:debuggable="true"` to the `<application>` tag in AndroidManifest.xml
 - Repack and reinstall the modified APK
 - App will appear in DataDumper's list
 
-## Use Cases
+## Use cases
 
 - Extract runtime-generated files (libs, configs, tokens, ...)
 - Backup app data without root
