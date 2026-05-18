@@ -53,5 +53,6 @@ Modify any app and add debugging support:
 
 - Extract runtime-generated files (libs, configs, tokens, ...)
 - Backup app data without root
+- Can be used to dump fake protections ..
 
 Made with fun by Simo
